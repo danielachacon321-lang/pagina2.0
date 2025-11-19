@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Meie+Script&display=swap');
+body{
+
+    background-color: rgb(147, 97, 228);
+    margin: 0%;
+}
+#encabezado-principal{
+    background-color: rgb(154, 114, 219) transparent;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    font-family: "Meie Script", cursive;
+}
+#encabezado-principal nav a{
+    margin: 20px;
+
+    text-decoration: none;
+
+
+}
+.seccion{
+        background-color: antiquewhite;
+        margin: 20px;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px; color: black;
+
+}
+.tarjeta{
+    background-color: rgb(195, 165, 223);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+#formulario-contacto input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.btn-principal{
+    background-color: rgb(205, 166, 231);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+#pie-pagina{
+    background-color: rgb(186, 129, 224);
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
